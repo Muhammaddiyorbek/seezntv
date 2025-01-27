@@ -1,6 +1,0 @@
-class AssetsModel {
-  static const base = 'assets';
-  static const images = 'images';
-  static const onboardingLogo1 = '$base/$images/onboarding.jpg';
-  static const onboardingLogo2_1 = '$base/$images/onboarding2_1.jpg';
-}
